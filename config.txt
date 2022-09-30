@@ -1,0 +1,5 @@
+Device: PC38x Headphones (Schiit Hel 2e) Schiit Hel 2e {1f75d340-5242-4057-9cca-a7cbb60a792e}
+Include: AutoEQ-PC38X.txt
+# 
+Device: PC38x Microphone (Schiit Hel 2e) Schiit Hel 2e {1a8b020b-1b74-4425-93da-59e661d376aa}
+Include: AutoEQ-PC38X-Mic.txt
